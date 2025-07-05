@@ -1,5 +1,0 @@
-{
-  "name": "AI Math Solver",
-  "description": "An advanced calculator that uses AI to solve complex math equations, provides step-by-step solutions, and visualizes functions with graphs. Users can input problems by typing with a special math keyboard or by drawing the equation on a canvas.",
-  "requestFramePermissions": []
-}
